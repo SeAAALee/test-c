@@ -14,4 +14,4 @@ var monster = "monster"
 var monster = "monster"
 ```
 
-:👎:
+🥇
